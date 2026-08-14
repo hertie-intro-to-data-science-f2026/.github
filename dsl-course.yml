@@ -4,3 +4,4 @@
 # course org's dsl-course.yml and this cohort's classroom-config/schedule.yml).
 course: intro-to-data-science-c11
 org: Intro-to-Data-Science-f2026
+course_description: This course introduces you to the fundamental concepts of the modern data science workflow and builds the critical skills every data scientist is expected to have. Data analysis skills have become essential for those pursuing careers in policy advocacy and evaluation, business consulting and management, or academic research. Working hands-on, we will move through the full data science pipeline—from programming foundations and the command line, through data collection, wrangling, storage, and visualization, to modeling, communication, and data science ethics. Along the way we examine how AI tools are reshaping data science practice and how to use them responsibly. The course is intended for students with some prior exposure to programming.
