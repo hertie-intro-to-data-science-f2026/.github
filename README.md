@@ -1,6 +1,6 @@
 <!-- SYSTEM-OWNED - do not edit, edits here are overwritten on the next refresh. -->
 
-# hertie-intro-to-data-science-f2026 - cohort control repo
+# Introduction to Data Science - cohort control repo
 
 This is the **`.github` repo** for the `hertie-intro-to-data-science-f2026` cohort org. **Students and instructors rarely need to touch anything in this repo  directly.**
 
