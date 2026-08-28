@@ -33,8 +33,5 @@ org; updates on every release.
 | [hertie-intro-to-data-science-f2026.github.io](https://github.com/hertie-intro-to-data-science-f2026/hertie-intro-to-data-science-f2026.github.io) | public | [do not touch]: Course website (auto-deployed) |
 <!-- dsl:repo-table:end -->
 
-_Teaching staff (instructors, TAs, faculty assistants): your action workflows aren't here - they live in the
-parent **course org's** `.github` control panel, on its Actions tab._
-
 ---
 _Hertie Data Science Lab._
